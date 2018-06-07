@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Arawak",
+    "owner": {
+      "firstName": "Nicolas",
+      "lastName": "Hodicq",
+      "mail": "nhodicq@bewizyu.com"
+    },
+    "openDays": [
+      "Monday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "openHours": {
+      "start": 10,
+      "end": 1
+    },
+    "beers": [
+      {
+        "type": "Blonde",
+        "name": "Triple Karmeliet"
+      }
+    ]
+  },
+  {
+    "name": "Gamer",
+    "owner": {
+      "firstName": "LE Marie",
+      "lastName": "Valentin",
+      "mail": "nhodicq@bewizyu.com"
+    },
+    "openDays": [
+      "Wednesday",
+      "Friday",
+      "Saturday"
+    ],
+    "openHours": {
+      "start": 10,
+      "end": 1
+    },
+    "beers": [
+      {
+        "type": "Blonde",
+        "name": "Triple Karmeliet"
+      }
+    ]
+  },
+  {
+    "name": "Sam'",
+    "owner": {
+      "firstName": "Nicolas",
+      "lastName": "Hodicq",
+      "mail": "nhodicq@bewizyu.com"
+    },
+    "openDays": [
+
+    ],
+    "openHours": {
+      "start": 10,
+      "end": 1
+    },
+    "beers": [
+      {
+        "type": "Blonde",
+        "name": "Triple Karmeliet"
+      }
+    ]
+  }
+]
